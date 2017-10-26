@@ -1,0 +1,2 @@
+# civ_game
+Used JavaFX to create a play on Sid Meier's Civilization game. Intro to Object Oriented Programming class TAs provided the framework (under the civ_game_framework repository), and I wrote code in the body. Compile in command line by using "javac -cp src/main/java src/main/java/runner/.java src/main/java/model/.java src/main/java/view/.java src/main/java/controller/.java" and run the program by running "java -cp src/main/java runner.CivilizationGame"
